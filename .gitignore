@@ -1,0 +1,10 @@
+# Ignore ALL
+*
+!*/
+
+# White List (Allow any)
+!/README.md
+!/LICENSE
+!/.gitignore
+!/Dockerfile
+!/src/hello-world.py
